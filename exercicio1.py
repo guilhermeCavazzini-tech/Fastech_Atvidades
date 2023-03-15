@@ -47,5 +47,5 @@ while n == 'S':
         
     print('Nome:',funcionario[0],funcionario[1],funcionario[2],funcionario[3],funcionario[4],funcionario[5])
 
-    n = str(input('Deseja calcular as horas de outro funcionario? [S/N]')).upper()
+    n = str(input('Deseja Calcular as Horas de Outro Funcionario? [S/N]')).upper()
     
